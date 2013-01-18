@@ -10,8 +10,12 @@ ideal for coding dojo where minimal setup is required.
 
 # How to build
 
-**mvn clean test**
+```
+mvn clean test
+```
 
 # How to generate project site
 
-**mvn site:site**
+```
+mvn site:site
+```
